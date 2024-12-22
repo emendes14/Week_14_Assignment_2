@@ -737,10 +737,6 @@ PrefabInstance:
       propertyPath: m_fontSize
       value: 3.9
       objectReference: {fileID: 0}
-    - target: {fileID: 4538731377129334578, guid: fc1776de97c416e4eb860a533d985337, type: 3}
-      propertyPath: m_Constraints
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 4713840110795586676, guid: fc1776de97c416e4eb860a533d985337, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -873,6 +869,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1007558716680083855, guid: 0e11ac85bb52f9641a6a4fe7e75e7824, type: 3}
       propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1290623544036020648, guid: 0e11ac85bb52f9641a6a4fe7e75e7824, type: 3}
+      propertyPath: m_Materials.Array.size
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3762678799279957907, guid: 0e11ac85bb52f9641a6a4fe7e75e7824, type: 3}
